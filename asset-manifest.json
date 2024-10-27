@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/MangoX/static/css/main.57adf581.css",
+    "main.js": "/MangoX/static/js/main.9e579071.js",
+    "static/js/453.86105dd2.chunk.js": "/MangoX/static/js/453.86105dd2.chunk.js",
+    "static/media/image.png": "/MangoX/static/media/image.ff892ce2572387013005.png",
+    "static/media/img3.svg": "/MangoX/static/media/img3.a2239a052c8813e5d7015aabfc6fa0a9.svg",
+    "static/media/image-1.png": "/MangoX/static/media/image-1.fd4d921fe9f85b47db92.png",
+    "static/media/image-2.png": "/MangoX/static/media/image-2.f43e7d4e0c99cc3ec814.png",
+    "static/media/image-4.png": "/MangoX/static/media/image-4.5a7758858ba5ac1fda55.png",
+    "static/media/image-5.png": "/MangoX/static/media/image-5.d50288fd5baae1e06763.png",
+    "static/media/image-3.png": "/MangoX/static/media/image-3.406f2a5c2f47238a6c20.png",
+    "static/media/hero.svg": "/MangoX/static/media/hero.14576df67d06a0615a9805e951a73b02.svg",
+    "static/media/logo.svg": "/MangoX/static/media/logo.cd06da3bdcb5ff43bcc10865f2a6f208.svg",
+    "static/media/stars.svg": "/MangoX/static/media/stars.59cda6ea787312e878976e924432fbf9.svg",
+    "static/media/img2.svg": "/MangoX/static/media/img2.50eed705da7360528f8a4dfc77a756f5.svg",
+    "static/media/check.svg": "/MangoX/static/media/check.4450b532eb6695560efddeb3f01c8d19.svg",
+    "index.html": "/MangoX/index.html",
+    "static/media/clients.svg": "/MangoX/static/media/clients.f142cbdf83f0178d14282fec3abb8059.svg",
+    "static/media/arrow.svg": "/MangoX/static/media/arrow.53d1fb8c82de1c99c34736be4aa4dac8.svg",
+    "main.57adf581.css.map": "/MangoX/static/css/main.57adf581.css.map",
+    "main.9e579071.js.map": "/MangoX/static/js/main.9e579071.js.map",
+    "453.86105dd2.chunk.js.map": "/MangoX/static/js/453.86105dd2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57adf581.css",
+    "static/js/main.9e579071.js"
+  ]
+}
