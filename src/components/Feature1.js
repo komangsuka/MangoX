@@ -2,7 +2,7 @@ import img2 from '../assets/img2.svg'
 
 const Feature1 = () => {
   return (
-    <section id="feature1" className='flex gap-[100px] items-start'>
+    <section id="features" className='flex gap-[100px] items-start scroll-mt-28'>
       <div className="flex flex-col gap-[32px]">
         <span className='font-black text-[16px] py-[4px] px-[12px] bg-[#F0C6C0] border-2 border-[#212121] rounded-[6px] w-fit'>SAVE TIME AND BUILD BETTER</span>
         <h2 className='text-[40px] font-bold'>Build digital products for all types of customers</h2>

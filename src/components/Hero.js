@@ -5,7 +5,7 @@ import clients from "../assets/clients.svg";
 
 const Hero = () => {
   return (
-    <section id="hero" className="">
+    <section id="hero" className="scroll-mt-28">
       <div className="flex pt-[80px] gap-[80px] items-start">
         <div className="flex flex-col gap-[80px]">
           <div className="flex flex-col gap-[32px]">

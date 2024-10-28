@@ -4,6 +4,10 @@
   @apply font-satoshi text-[#212121]
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 nav > a {
   @apply py-[8px] px-[20px] rounded-[8px]
 }
@@ -12,7 +16,6 @@ img {
   user-select: none;
   -webkit-user-drag: none;
 }
-
 .active {
   background-color: #dedede60;
 }

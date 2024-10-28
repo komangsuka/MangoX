@@ -7,7 +7,7 @@ import image6 from '../assets/image-5.png'
 
 const Testi = () => {
   return (
-    <section id="testimonials" className='flex flex-col gap-[68px]'>
+    <section id="testi" className='flex flex-col gap-[68px] scroll-mt-28'>
       <div id="title" className="flex flex-col items-center justify-center gap-[32px]">
         <span className="font-black text-[16px] py-[4px] px-[12px] bg-[#BEEAEF] border-2 border-[#212121] rounded-[6px] w-fit">
           TESTIMONIALS
